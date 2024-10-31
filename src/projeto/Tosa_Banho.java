@@ -15,7 +15,7 @@ public class Tosa_Banho extends JPanel
     
     public Tosa_Banho()
     {
-         setBackground(new Color (238,232,170)) ;
+        setBackground(new Color (238,232,170)) ;
         inicializarComponentes();
         definirEventos();
     }
